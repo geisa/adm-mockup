@@ -1,3 +1,18 @@
+= Repository moved
+
+This project has moved to the GEISA Community repository:
+
+https://github.com/geisa/community/tree/main/example-implementations/adm/lwm2m-client/wakaama
+
+This repository is retained for historical commit and external-link
+continuity.
+
+Please submit future issues and changes through:
+
+https://github.com/geisa/community
+
+'''
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-02B36C)](https://opensource.org/license/bsd-3-clause)
 
